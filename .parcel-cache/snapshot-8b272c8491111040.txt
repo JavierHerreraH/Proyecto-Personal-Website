@@ -1,0 +1,18 @@
+17
+84/home/estudiant/Proyecto Personal Website/dist/Proyecto Personal Website.3464ddca.js1730717151872163155 0
+41/home/estudiant/Proyecto Personal Website1730717109388412090 1
+63/home/estudiant/Proyecto Personal Website/.vscode/settings.json1730713818894106899 0
+88/home/estudiant/Proyecto Personal Website/dist/Proyecto Personal Website.3464ddca.js.map1730717151878162979 0
+45/home/estudiant/Proyecto Personal Website/img1730715327882313828 1
+55/home/estudiant/Proyecto Personal Website/img/fondo.jpg1730714876164656940 0
+54/home/estudiant/Proyecto Personal Website/package.json1728473166218439809 0
+51/home/estudiant/Proyecto Personal Website/style.css1730716803454713718 0
+65/home/estudiant/Proyecto Personal Website/dist/index.3a01df49.css1730717151874163096 0
+56/home/estudiant/Proyecto Personal Website/img/perfil.jpg1730715306031403109 0
+49/home/estudiant/Proyecto Personal Website/.vscode1730713818844102346 1
+46/home/estudiant/Proyecto Personal Website/dist1730717151823164592 1
+69/home/estudiant/Proyecto Personal Website/dist/index.3a01df49.css.map1730717151878162979 0
+52/home/estudiant/Proyecto Personal Website/index.html1730717040667447836 0
+65/home/estudiant/Proyecto Personal Website/dist/fondo.7cbd173f.jpg1730717151852163741 0
+66/home/estudiant/Proyecto Personal Website/dist/perfil.0efffc95.jpg1730717151848163859 0
+57/home/estudiant/Proyecto Personal Website/dist/index.html1730717151860163507 0

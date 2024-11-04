@@ -1,0 +1,10 @@
+9
+49/home/estudiant/Proyecto Personal Website/.vscode1730713818844102346 1
+51/home/estudiant/Proyecto Personal Website/style.css1730716803454713718 0
+54/home/estudiant/Proyecto Personal Website/package.json1728473166218439809 0
+55/home/estudiant/Proyecto Personal Website/img/fondo.jpg1730714876164656940 0
+63/home/estudiant/Proyecto Personal Website/.vscode/settings.json1730713818894106899 0
+56/home/estudiant/Proyecto Personal Website/img/perfil.jpg1730715306031403109 0
+45/home/estudiant/Proyecto Personal Website/img1730715327882313828 1
+52/home/estudiant/Proyecto Personal Website/index.html1730717040667447836 0
+41/home/estudiant/Proyecto Personal Website1730717109388412090 1
